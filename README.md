@@ -15,7 +15,7 @@ This Power BI project analyzes sales data to uncover key trends, optimize decisi
 - **Cost & Profit Variations** – Improve revenue forecasting and business decisions  
 
 ## 📂 Files in the Repository  
-- `Sales_Analysis.pbix` – The Power BI dashboard file  
+- `Sales Analysis.pbix` – The Power BI dashboard file  
 - `Sales_Data.xlsx` – Sample dataset used for analysis  
 - `README.md` – Project documentation  
 
